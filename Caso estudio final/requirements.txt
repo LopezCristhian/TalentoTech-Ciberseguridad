@@ -1,0 +1,16 @@
+# Simulador de Cifrados Clásicos vs Modernos
+# Dependencias del proyecto
+
+# Criptografía
+pycryptodome==3.19.0
+
+# Análisis de datos
+pandas==2.1.4
+numpy==1.24.3
+
+# Visualización
+matplotlib==3.8.2
+seaborn==0.13.0
+
+# Utilidades adicionales
+scipy==1.11.4
