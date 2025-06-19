@@ -10,6 +10,10 @@ Este repositorio contiene una serie de ejercicios prácticos desarrollados en **
 
 En un mundo digital cada vez más interconectado, **la ciberseguridad es esencial** para proteger datos, sistemas y usuarios frente a amenazas crecientes. Estos ejercicios fortalecen no solo las habilidades técnicas en Python, sino también la conciencia sobre buenas prácticas de seguridad digital.
 
+## 📝 Cuadernillo de ejercicios en Google Colab
+
+🔗 **[Abrir en Google Colab](https://colab.research.google.com/drive/15NYPJnXsJQvS8RUMgNcnP4GhLy8W561Q?usp=sharing)**
+
 ---
 
 📁 ¡Explora los archivos y contribuye al desarrollo de competencias clave en programación segura!
