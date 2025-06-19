@@ -1,3 +1,7 @@
+""" 
+Simulador de cifrados clásicos vs modernos
+"""
+
 import time
 import string
 import random
