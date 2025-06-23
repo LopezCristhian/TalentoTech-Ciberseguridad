@@ -165,20 +165,3 @@ class AnalizadorSeguridad:
         elif tipo_cifrado == "AES":
             return 2**256  # 256 bits de clave
         return 0
-
-    # Ejecutar análisis completo
-    resultados, dataset = ejecutar_comparativa_completa()
-    
-    # Crear visualizaciones
-    crear_visualizaciones(resultados)
-    
-    # Demostrar criptoanálisis
-    demostrar_criptoanalisis()
-    
-    # Resumen final
-    print("\n📈 RESUMEN DE RESULTADOS")
-    print("=" * 40)
-    print("✅ César: Muy rápido, pero extremadamente vulnerable")
-    print("⚠️  Vigenère: Rápido, vulnerable al análisis de frecuencias")
-    print("🔒 AES: Más lento, pero criptográficamente seguro")
-    print("\nConclusión: Los métodos modernos sacrifican velocidad por seguridad")

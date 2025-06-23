@@ -2,15 +2,15 @@
 # Dependencias del proyecto
 
 # Criptografía
-pycryptodome==3.19.0
+pycryptodome==3.23.0
 
 # Análisis de datos
-pandas==2.1.4
-numpy==1.24.3
+pandas==2.3.0
+numpy==2.3.0
 
 # Visualización
-matplotlib==3.8.2
-seaborn==0.13.0
+matplotlib==3.10.3
+seaborn==0.13.2
 
 # Utilidades adicionales
-scipy==1.11.4
+scipy==1.15.3
