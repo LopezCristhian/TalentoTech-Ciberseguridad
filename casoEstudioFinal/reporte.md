@@ -3,10 +3,10 @@
 
 ---
 
-**Autor:** [Tu Nombre]  
+**Autor:** [Cristhian López]  
 **Curso:** Ciberseguridad  
 **Fecha:** Junio 2025  
-**Institución:** [Universidad]
+**Institución:** [TalentoTech]
 
 ---
 
