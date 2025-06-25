@@ -26,7 +26,7 @@ Este proyecto académico implementa y compara la efectividad de diferentes algor
 
 ```bash
 # Clonar o descargar el proyecto
-git clone [https://github.com/LopezCristhian/TalentoTech-Ciberseguridad.git]
+git clone https://github.com/LopezCristhian/TalentoTech-Ciberseguridad.git
 
 # Dirigirse al directorio del proyecto
 cd TalentoTech-Ciberseguridad/casoEstudioFinal
