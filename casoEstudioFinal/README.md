@@ -25,11 +25,25 @@ Este proyecto académico implementa y compara la efectividad de diferentes algor
 ## 📦 Instalación
 
 ```bash
-# Instalar dependencias
-pip install pycryptodome matplotlib seaborn pandas numpy
-
 # Clonar o descargar el proyecto
 git clone [https://github.com/LopezCristhian/TalentoTech-Ciberseguridad.git]
+
+# Dirigirse al directorio del proyecto
+cd TalentoTech-Ciberseguridad/casoEstudioFinal
+
+# Abrir el proyecto en Visual Studio Code
+code .
+
+# Crear un entorno virtual
+python -m venv venv
+
+# Activar el entorno virtual
+.\venv\Scripts\Activate.ps1
+
+# Instalar dependencias
+pip install -r requirements.txt
+
+# Seleccionar interprete de Python 
 ```
 ### Funcionalidades Implementadas
 

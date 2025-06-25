@@ -14,9 +14,11 @@ En un mundo digital cada vez más interconectado, **la ciberseguridad es esencia
 
 🔗 **[Abrir en Google Colab](https://colab.research.google.com/drive/15NYPJnXsJQvS8RUMgNcnP4GhLy8W561Q?usp=sharing)**
 
-## 📺 Vídeo de explicativo del proyecto final en Youtube
+## 🎥 Vídeo de explicativo del proyecto final en Youtube
 
-🔗 **[Abrir en Youtube]()**
+🔗 **[Abrir en YouTube]()**
+
+[![Simulador cifrados clásicos vs modernos](https://img.youtube.com/vi/UESoS4oOSsU/maxresdefault.jpg)](https://www.youtube.com/watch?v=UESoS4oOSsU)
 
 ---
 
