@@ -14,6 +14,10 @@ En un mundo digital cada vez más interconectado, **la ciberseguridad es esencia
 
 🔗 **[Abrir en Google Colab](https://colab.research.google.com/drive/15NYPJnXsJQvS8RUMgNcnP4GhLy8W561Q?usp=sharing)**
 
+## 📺 Vídeo de explicativo del proyecto final en Youtube
+
+🔗 **[Abrir en Youtube]()**
+
 ---
 
 📁 ¡Explora los archivos y contribuye al desarrollo de competencias clave en programación segura!
