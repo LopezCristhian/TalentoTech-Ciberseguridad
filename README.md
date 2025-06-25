@@ -16,9 +16,12 @@ En un mundo digital cada vez más interconectado, **la ciberseguridad es esencia
 
 ## 🎥 Vídeo de explicativo del proyecto final en Youtube
 
-🔗 **[Abrir en YouTube]()**
+🔗 **[Abrir en YouTube](https://www.youtube.com/watch?v=UESoS4oOSsU)**
 
-[![Simulador cifrados clásicos vs modernos](https://img.youtube.com/vi/UESoS4oOSsU/maxresdefault.jpg)](https://www.youtube.com/watch?v=UESoS4oOSsU)
+<!-- [![Simulador cifrados clásicos vs modernos](https://img.youtube.com/vi/UESoS4oOSsU/maxresdefault.jpg)](https://www.youtube.com/watch?v=UESoS4oOSsU) -->
+<a href="https://www.youtube.com/watch?v=UESoS4oOSsU">
+  <img src="https://img.youtube.com/vi/UESoS4oOSsU/hqdefault.jpg" alt="César vs Vigenère vs AES" width="400">
+</a>
 
 ---
 
